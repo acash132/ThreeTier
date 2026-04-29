@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="ThreeTier_Arc.csproj" />
+  <Project Path="../BLL/BLL.csproj" Id="c3ac04d1-c28e-47b4-b656-154935393dd2" />
+  <Project Path="../DALClass/DALClass.csproj" Id="57134088-9608-4449-8fb7-334b5bc35899" />
+  <Project Path="ThreeTier_Arc.csproj" Id="f21ac642-bf10-4ee4-ba78-78904d3ca25e" />
 </Solution>
