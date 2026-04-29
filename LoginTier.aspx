@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="LoginTier.aspx.cs" Inherits="ThreeTier_Arc.LoginTier" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="LoginTier.aspx.cs" Inherits="ThreeTier_Arc.LoginTier" MaintainScrollPositionOnPostback="true" %>
 
 <!DOCTYPE html>
 
